@@ -1,6 +1,6 @@
 
 
-go to folder of the repo (main folder) . E.g. C:\Work\repos\karthik\ExpenseTracker
+go to folder of the repo (main folder) . E.g. C:\Work\repos\ExpenseTracker
 
 Run the command to build the image
 
