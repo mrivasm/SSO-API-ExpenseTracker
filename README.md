@@ -27,10 +27,6 @@ A robust and scalable Expense Tracker API built with .NET Core 8, designed to he
 ### Installation
 
 1. **Clone the repository**:
-    ```sh
-    git clone https://github.com/learnsmartcoding/expense-tracker-web-api.git
-    cd expense-tracker-web-api
-    ```
 
 2. **Configure the database connection**:
     - Update the connection string in `appsettings.json`:
@@ -89,12 +85,5 @@ A robust and scalable Expense Tracker API built with .NET Core 8, designed to he
 - **Get All Expense Categories**: `GET /api/expense-categories`
 - **Get All Credit Cards**: `GET /api/credit-cards`
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request.
-
 ## License
 This project is licensed under the MIT License.
-
-## Contact
-For questions or feedback, please contact [learnsmartcoding@gmail.com](mailto:learnsmartcoding@gmail.com).
-
